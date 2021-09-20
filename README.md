@@ -20,14 +20,3 @@ $ ./main
 ### Execução do Cliente
 
 Uma vez que o server está sendo executado no terminal, abra o jupyter notebook e execute todas as células. A execução da célula irá baixar 801 plots de gráficos em formato png, para transformá-los em um GIF utiliza-se um conversor online: https://ezgif.com/apng-to-gif
-
-<td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
